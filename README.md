@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-proof-section-built-with-css-grid-and-flexbox-1WWJftlpUw)
-- [Live Site URL](https://prismatic-palmier-e36078.netlify.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-and-flexbox-bw5zlpYjrV)
+- [Live Site URL](https://neon-cassata-ef3438.netlify.app/)
 
 ### Built with
 
